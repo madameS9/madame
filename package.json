@@ -8,7 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/madameS9/madame.git"
+    "url": "https://github.com/madameS9/madame.git"
+  },
+  "dependencies": {
+    "hamstertea": "1.0.0",
+    "pelmeniosla": "1.0.0",
+    "kaban69": "1.0.0",
+    "slonik666": "1.0.0"
   },
   "author": "",
   "license": "ISC",
